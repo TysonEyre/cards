@@ -55,6 +55,7 @@ function calc_card_total($card_array1){
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- Loop through card array and display image for each card drawn -->

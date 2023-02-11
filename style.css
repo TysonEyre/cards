@@ -1,0 +1,21 @@
+body {
+    background-color: #ebf6f5;
+    color: #346b69;
+    margin: 20px;
+}
+
+h1 {
+    font-family: "Cormorant", sans-serif;
+    font-size: 4em;
+}
+
+#draw {
+    background-color: #69a8a6;
+    border-radius: 100px;
+    color: #eff8f7;
+    padding: 2px 10px 2px 10px;
+}
+
+#draw:hover {
+    transform: scale(1.2);
+}
